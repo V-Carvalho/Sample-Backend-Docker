@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Amostra de como criar uma API utilizando Node.js e Docker.
+Amostra de como criar uma API utilizando Docker e Node.js.
 
 ## 🔧 Tecnologias utilizadas
 
@@ -11,11 +11,14 @@ Amostra de como criar uma API utilizando Node.js e Docker.
 
 ## 🚀 Rodando o projeto
 
-* git clone
+* Clonar projeto
+> git clone
 
->docker build -t **nomde-da-img**:**tag** .
+* Criar imagem
+>docker build -t **"nomde-da-img"**:**"tag"** .
 
->docker run --name **nome-do-container** -p **porta-do-host**:**porta-do-container** -d **nome-da-imagem**:**tag**
+* Criar container
+>docker run --name **"nome-do-container"** -p **2000**:**2000** -d **"nome-da-imagem"**:**"tag"**
 
 * OBS: Necessário ter o Docker instalado na sua máquina. [Link da documentação](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
