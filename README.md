@@ -24,4 +24,4 @@ Amostra de como criar uma API utilizando Docker e Node.js.
 
 ## 🌐 Link da API
 
-* [API-DOCKER](https://sample-backend-docker.azurewebsites.net/)
+* [Back-end](https://sample-backend-docker.azurewebsites.net/)
