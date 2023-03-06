@@ -6,9 +6,6 @@ Amostra de como criar uma API utilizando Node.js e Docker.
 
 ## 🔧 Tecnologias utilizadas
 
-* Docker
-* Node.js  
-
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Node.js ](https://skillicons.dev/icons?i=nodejs)
 
